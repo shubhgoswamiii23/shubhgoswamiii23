@@ -6,9 +6,9 @@
 ### 👨‍💻 About Me  
 - 📊 Passionate about **Data Analysis, Business Insights, and Visualization**  
 - 🧠 Currently learning **Advanced SQL, Power BI DAX, and Predictive Modeling**  
-- 💡 Interested in using data to drive **business decisions and performance**  
+- 💡 I love transforming raw data into **meaningful insights and stories**  
 - 🎯 Goal: To work as a **Data Analyst / Business Analyst Intern**  
-- ⚙️ Always improving my skills in **Python, SQL, and Visualization Tools**
+- ⚙️ Strong grip on **Python, SQL, Power BI, and Excel**
 
 ---
 
@@ -39,6 +39,16 @@
 | **Superstore Sales Dashboard** | Designed an interactive Power BI dashboard showing regional & category-wise sales trends | Power BI, Excel |
 | **SQL Retail Insights** | Analyzed retail transactions to uncover profit margins, sales trends & top customers | PostgreSQL, SQL |
 | **Python EDA on Superstore Data** | Performed data cleaning, aggregation, and visualization for business insights | Python (Pandas, Matplotlib, Seaborn) |
+
+---
+
+### 🏅 Certifications & Achievements  
+
+- 🎓 **Data Analysis with Python** – Coursera  
+- 🧩 **Excel Skills for Business** – Macquarie University (Coursera)  
+- 📊 **Power BI Data Analytics & Visualization** – LinkedIn Learning  
+- 🧠 **SQL for Data Analysts** – Kaggle / Mode Analytics  
+- 🏆 Completed multiple real-world data projects integrating **Python + SQL + Power BI**
 
 ---
 
